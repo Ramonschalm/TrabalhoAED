@@ -7,6 +7,7 @@ desempate será a nota da Redação. Persistindo o empate, a nota de Matemática
 desempate, e, por fim, a nota de Linguagens como terceiro critério. Para simplificar, vamos considerar que não haverá
 casos de dois alunos com médias idênticas e notas iguais em todos os critérios de desempate. Na Universidade Stark,
 cada candidato deve selecionar duas opções de curso. Segue abaixo as regras de seleção:
+
 1. Primeira Opção: O candidato selecionado para sua primeira opção de curso não deverá ser colocado em
 nenhuma fila de espera.
 2. Segunda Opção: O candidato selecionado para sua segunda opção deverá ser colocado na fila de espera da
@@ -16,6 +17,7 @@ fila de espera de ambos os cursos, respeitando o limite de candidatos por fila d
 4. Ambas as Opções: Se um candidato for selecionado para suas duas opções de curso, ele deve ser incluído
 apenas na lista de candidatos selecionados da sua primeira opção de curso (isto é, deve liberar a vaga da
 segunda opção).
+
 O programa deverá ler informações de um arquivo de entrada e ao final do processamento deverá criar um arquivo texto
 contendo as seguintes informações:
 • Nome e nota de corte de cada curso (A nota de corte de cada curso é a menor nota média dos selecionados para
