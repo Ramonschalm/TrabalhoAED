@@ -1,7 +1,0 @@
-C:\Users\ramon\source\repos\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.csproj.AssemblyReference.cache
-C:\Users\ramon\source\repos\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.csproj.CoreCompileInputs.cache
-C:\Users\ramon\source\repos\TrabalhoAED\TrabalhoAED\bin\Debug\TrabalhoAED.exe.config
-C:\Users\ramon\source\repos\TrabalhoAED\TrabalhoAED\bin\Debug\TrabalhoAED.exe
-C:\Users\ramon\source\repos\TrabalhoAED\TrabalhoAED\bin\Debug\TrabalhoAED.pdb
-C:\Users\ramon\source\repos\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.exe
-C:\Users\ramon\source\repos\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.pdb
