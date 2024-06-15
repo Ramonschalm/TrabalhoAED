@@ -47,6 +47,7 @@
     <Compile Include="Curso.cs" />
     <Compile Include="Fila.cs" />
     <Compile Include="LeituraEntrada.cs" />
+    <Compile Include="Mergesort.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
