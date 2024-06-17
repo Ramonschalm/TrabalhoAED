@@ -1,4 +1,4 @@
-﻿4 40
+﻿4;40
 1;Matemática;2
 2;Física;2
 3;Química;2

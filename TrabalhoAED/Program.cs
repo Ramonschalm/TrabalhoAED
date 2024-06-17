@@ -61,10 +61,7 @@ namespace TrabalhoAED
 
         private static void AdicionarCandidatoNaFilaEspera(Candidato candidato, Curso curso)
         {
-            if (curso.ListaEspera.ultimo != (curso.ListaEspera.primeiro - 1) % curso.ListaEspera.candidatos.Length)
-            {
                 curso.ListaEspera.Inserir(candidato);
-            }
         }
 
         public static void SalvarTxt(Dictionary<int, Curso> dados, string caminhoArquivo)
